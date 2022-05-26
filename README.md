@@ -1,4 +1,4 @@
-### Live App: 
+### Live App: https://near-hello-namedappfrontend.herokuapp.com/
 # Near-Hello-Name-Dapp
 
 ### Idea
