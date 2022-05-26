@@ -8,4 +8,5 @@
 ###### A simple read and write smart contract.
 
 #### Technologies used React and Rust.
+#### Frontend code: https://github.com/usihanselm/Near-Hello-Name-Dapp-Frontend
 
